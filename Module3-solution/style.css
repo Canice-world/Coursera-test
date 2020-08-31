@@ -1,0 +1,42 @@
+body{background-color: #B8860B;}
+
+/*header*/
+#header-nav {background-color:#D4DAF7;
+border-radius:0;
+border:0;}
+.navbar-brand{padding-top:5px;
+height:60px;}
+
+/*Restaurant name*/
+.navbar-brand h1{color:#DC143C;
+font-size:3vw;
+text-transform: uppercase;
+margin-top:10px;
+text-shadow:1px 1px 1px #111 ;
+
+}
+/*nav-list*/
+#Menu{margin-top:10px;}
+#Menu a{text-align: center;
+        color:#FF8C00;
+        background:#A9A9A9;}
+#Menu a:hover{background-color:white;}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{border:1px solid #B8860B;
+background: #D4DAF7;}
+/*header end*/
+
+/*content*/
+h2{
+color:white;
+font-size:30px;
+}
+#menu{height:1000px;
+background:#FFF8DC;}
+h3{
+font-size:20px;
+font-weight: bolder;}
+#Chickenmenu{height:400px;}
+#Beefmenu{height:300px;}
+#Sushimenu{height:300px;}
+p{font-size: 14px;}
